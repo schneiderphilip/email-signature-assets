@@ -1,0 +1,2 @@
+# email-signature-assets
+Signatur
